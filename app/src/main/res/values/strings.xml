@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">BioBitacora</string>
+    <string name="app_name">BioBitácora</string>
+    <string name="title_form">Nuevo Registro</string>
+    <string name="hint_title">Nombre de la especie</string>
+    <string name="hint_description">Observaciones adicionales</string>
+    <string name="lbl_category">Categoría</string>
+    <string name="lbl_location">Ubicación Actual</string>
+    <string name="btn_take_photo">Tomar Fotografía</string>
+    <string name="btn_gps">Obtener GPS</string>
+    <string name="btn_save">Guardar Avistamiento</string>
+    <string name="error_empty_fields">Por favor, rellena los campos obligatorios.</string>
+
+    <string name="btn_new_entry">Nuevo Avistamiento</string>
+    <string name="btn_view_list">Ver Historial</string>
+    <string name="title_history">Mis Hallazgos</string>
+    <string name="empty_list">No hay avistamientos registrados.</string>
 </resources>

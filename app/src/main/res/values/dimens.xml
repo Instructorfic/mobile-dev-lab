@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8.dp</dimen>
+    <dimen name="padding_medium">16.dp</dimen>
+    <dimen name="padding_large">24.dp</dimen>
+
+    <dimen name="card_elevation">4.dp</dimen>
+    <dimen name="image_height_form">200.dp</dimen>
+    <dimen name="button_height">56.dp</dimen>
+    <dimen name="corner_radius">12.dp</dimen>
+</resources>
